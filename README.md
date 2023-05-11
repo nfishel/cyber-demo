@@ -14,4 +14,4 @@ row 2 col 1 | row 2 col 2
 # 🔐
 `cybersecurity`
 
-![database file](database-down.svg)
+# ![database file](database-down.svg)
